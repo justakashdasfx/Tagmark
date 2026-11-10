@@ -5,6 +5,6 @@
  * account's data private. Never paste the "service_role" key anywhere in this app.
  */
 export const CONFIG = {
-  url: 'https://vytkofaumaamfqbkwuof.supabase.co/rest/v1/',
-  key: 'sb_publishable_TaVHFHR0lL9ThnfOSH5H3A_XCIbVy8s',
+  url: 'https://vytkofaumaamfqbkwuof.supabase.co',
+  key: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ5dGtvZmF1bWFhbWZxYmt3dW9mIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQyNzgzNzgsImV4cCI6MjEwOTg1NDM3OH0.FzSuumYy95I5_jon-ItwPZsnmwb7z2YuS-ikuVSBZvQ',
 };
